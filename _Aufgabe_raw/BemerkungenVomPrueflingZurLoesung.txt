@@ -1,0 +1,37 @@
+###--------------------\\\vvv///--------------------
+### CHECK-IN TOGGLE --->>> * <<<--- CHECK-IN TOGGLE
+###--------------------///^^^\\\--------------------
+################################################################################
+###
+###     LabExam1215_4XIB1-P1   demo!   resp.   former P1 LabExam SS21  c#13    21xxxx/pw1  ( ITS1-PT, done with:  Eclipse 4.19 ,  AdoptOpenJDK 11 ,  JUnit5 )
+###     ====================
+###
+
+
+
+"Zentrales Repository":
+=======================
+PRIVATE!
+VCS: git@git.HAW-Hamburg.de:SHF/SeMaSeZo/LE_s21s_c13_demo_JUnit5
+
+
+
+
+
+MARKs
+=====
+__???__<YYMMDD>     marks points, that have to be rechecked/reconsidered/are open ...
+.                   search / grep with:    grep  -e "???"  */*/*.java
+
+
+
+
+
+History
+=======
+21/08/18    start of demo version (3h)
+21/08/15    final evaluation version
+21/05/07    The Lab Exam XI P1 / ITS1 PT
+21/05/26    a1 running
+21/05/26	initial check-in
+21/05/25	start with :  Eclipse 4.19.x (21-03) ,  AdoptOpenJDK 11.0.10+9 ,  JUnit5 Jupiter:5.7.1/Platform:1.7.1
